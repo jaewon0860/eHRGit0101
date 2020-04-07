@@ -77,5 +77,5 @@ __강조텍스트__
 강조텍스트  
 
 이미지 넣기
-![서현진](https://www.google.com/url?sa=i&url=http%3A%2F%2Ffashion.chosun.com%2Fm%2Farticle.html%3Fcontid%3D2016070502345&psig=AOvVaw2SkB7msz_mp2cwpymNc1-i&ust=1586315174018000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDXi-eq1egCFQAAAAAdAAAAABAJ "이미지설명")  
---- ![서현진](https://m.2eyeshop.com/web/product/medium/201811/3874513baf54dcb3f2f68942f5cfa6a6.png "이미지설명")  
+
+![서현진](http://fashion.chosun.com/site/data/img_dir/2016/07/05/2016070502257_0.jpg "이미지설명")  
