@@ -77,4 +77,4 @@ __강조텍스트__
 강조텍스트  
 
 이미지 넣기
-![튤립](http://fashion.chosun.com/site/data/img_dir/2016/07/05/2016070502257_0.jpg,"이미지설명")
+![서현진](http://fashion.chosun.com/site/data/img_dir/2016/07/05/2016070502257_0.jpg,"이미지설명")
